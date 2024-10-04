@@ -1,4 +1,4 @@
-Resource Monitor Project (Python)
+# Resource Monitor Project (Python)
 
 The application features a graphical interface with four buttons, allowing you to select one of the following charts: CPU, RAM, DISK, and an Exit button.
 
