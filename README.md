@@ -1,10 +1,7 @@
-Proiect Resource Monitor Python
+Resource Monitor Project (Python)
 
-Aplicatia are o interfata grafica cu 4 butoane de unde poti selecta
-unul din urmatoarele grafice: CPU, RAM, DISK. Al 4-lea buton find cel de exit
+The application features a graphical interface with four buttons, allowing you to select one of the following charts: CPU, RAM, DISK, and an Exit button.
 
-Apasand butonul CPU se va deschide un grafic in timp
-real al procentajului la care se afla procesorul. In partea de sus a graficului
-este fixata valoarea procentului in timp real
-Pentru RAM se va deschide un grafic afisand procentul de ram utilizat.
-Pentru Disk se va afisa valoarea totala, valoarea ocupata si valoarea libera.
+Pressing the CPU button opens a real-time graph displaying the current percentage usage of the processor. At the top of the graph, the real-time percentage value is shown.
+For RAM, a graph will open, showing the percentage of RAM being used.
+For Disk, the chart displays the total disk space, the used space, and the free space.
